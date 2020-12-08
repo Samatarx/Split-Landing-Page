@@ -113,6 +113,8 @@ h1 {
   transition: all var(--speed) ease-in-out;
 }
 
+/* Once the mouse events occurs the widths of the sections change */
+
 .hover-left .left {
   width: var(--hover-width);
 }
